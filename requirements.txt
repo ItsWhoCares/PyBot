@@ -28,3 +28,4 @@ w3lib==2.1.2
 websockets==10.4
 Werkzeug==2.3.7
 zipp==3.16.2
+gunicorn==21.2.0
