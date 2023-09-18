@@ -166,21 +166,25 @@ def departPlains(s):
 #     "BKPR": "7492714"
 # }
 caterSize = {
-    "Dubai, United Arab Emirates": ["6962617", 10000],
-    "Caracas, Venezuela": ["6992139", 10000],
-    "Dallas-Fort Worth, United States": ["7012340", 10000],
-    "London Heathrow Intl, United Kingdom": ["7013457", 10000],
-    "Addis Ababa, Ethiopia": ["7043052", 5000],
-    "Phoenix Int, United States": ["7045391", 10000],
+    "Dubai, United Arab Emirates": ["6962617", 3000],
+    "Caracas, Venezuela": ["6992139", 3000],
+    "Dallas-Fort Worth, United States": ["7012340", 5000],
+    "London Heathrow Intl, United Kingdom": ["7013457", 5000],
+    "Addis Ababa, Ethiopia": ["7043052", 2000],
+    "Phoenix Int, United States": ["7045391", 5000],
     "NGTA": ["7080905", 10000],
     "SBGR": ["7079820", 10000],
-    "LOWW": ["7156637", 5000],
+    "LOWW": ["7156637", 10000],
     "SBBR": ["7278739", 5000],
-    "EPWA": ["7423856", 5000],
+    "EPWA": ["7423856", 10000],
     "BKPR": ["7492714", 5000],
     "FDSK": ["7600524", 5000],
     "LYPG": ["7666150", 5000],
-    "FEFF": ["7729322", 3000]
+    "FEFF": ["7729322", 5000],
+    "KATL": ["7729377", 5000],
+    "LQSA": ["7791210", 5000],
+    "FYWH": ["7828095", 5000],
+    "FBSK": ["7839999", 5000]
 }
 
 
