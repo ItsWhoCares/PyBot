@@ -257,9 +257,10 @@ def hello_pubsub(event, context):
                 'https://www.airlinemanager.com/weblogin/login.php', data=payload)
 
             # if time is 04:00:00 am
-            if 2 < time.localtime().tm_hour < 6:
-                checkPending(s)
-                doMaintainance(s)
+            #if 2 < time.localtime().tm_hour < 6:
+            checkPending(s)
+            
+            doMaintainance(s)
 
             orderCatering(s)
             buyFuel(s)
